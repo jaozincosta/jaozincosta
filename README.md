@@ -93,6 +93,7 @@ I also have solid experience creating **modern and responsive web applications**
 </table>
 
 </div>
+
 ---
 
 ## 📊 GitHub Insights  
