@@ -34,19 +34,19 @@ I also have solid experience creating **modern and responsive web applications**
 
 <div align="left">
 
-### 💻 Backend  
+### 💻 Backend
 <table>
 <tr>
-<td align="center" width="100">
-  <img height="40" src="https://upload.wikimedia.org/wikipedia/commons/7/7d/Microsoft_.NET_logo.svg" alt=".NET"/><br/>
+<td align="center" valign="middle" width="100" style="padding-top: 5px;">
+  <img height="50" src="https://upload.wikimedia.org/wikipedia/commons/7/7d/Microsoft_.NET_logo.svg" alt=".NET"/><br/>
   <sub><b>.NET</b></sub>
 </td>
-<td align="center" width="100">
-  <img height="40" src="https://upload.wikimedia.org/wikipedia/commons/4/4f/Csharp_Logo.png" alt="C#"/><br/>
+<td align="center" valign="middle" width="100">
+  <img height="60" src="https://upload.wikimedia.org/wikipedia/commons/4/4f/Csharp_Logo.png" alt="C#"/><br/>
   <sub><b>C#</b></sub>
 </td>
-<td align="center" width="100">
-  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" alt="Visual Studio"/><br/>
+<td align="center" valign="middle" width="100" style="padding-top: 5px;">
+  <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" alt="Visual Studio"/><br/>
   <sub><b>Visual Studio</b></sub>
 </td>
 </tr>
