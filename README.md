@@ -96,57 +96,49 @@ I also have solid experience creating **modern and responsive web applications**
 
 ---
 
-## 📊 GitHub Insights  
+## 📊 GitHub Insights
 
-<div align="center">
+<p align="center">
+  <table>
+    <tr>
+      <td align="center">
+        <img
+          width="420"
+          src="https://github-readme-stats.vercel.app/api?username=jaozincosta&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&border_radius=18"
+          alt="GitHub Stats"
+        />
+      </td>
+      <td align="center">
+        <img
+          width="420"
+          src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaozincosta&layout=compact&theme=tokyonight&langs_count=8&border_radius=18"
+          alt="Most Used Languages"
+        />
+      </td>
+    </tr>
+    <tr>
+      <td colspan="2" align="center">
+        <img
+          width="860"
+          src="https://github-readme-activity-graph.vercel.app/graph?username=jaozincosta&theme=tokyo-night&radius=18&hide_border=false&area=true"
+          alt="Contribution Activity Graph"
+        />
+      </td>
+    </tr>
+    <tr>
+      <td colspan="2" align="center">
+        <img
+          width="860"
+          src="https://streak-stats.demolab.com?user=jaozincosta&theme=tokyonight&hide_border=false&border_radius=18&date_format=j%20M%5B%20Y%5D"
+          alt="Commit Streak"
+        />
+      </td>
+    </tr>
+  </table>
 
-<table style="border-collapse: collapse; border: none;">
-  <!-- Linha 1 – Stats e Linguagens -->
-  <tr>
-    <td align="center" style="border: none; padding: 10px;">
-      <img 
-        width="470"
-        src="https://github-readme-stats.vercel.app/api?username=jaozincosta&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&border_radius=15&hide_title=false"
-        alt="GitHub Stats"
-      />
-    </td>
-    <td align="center" style="border: none; padding: 10px;">
-      <img 
-        width="470"
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaozincosta&layout=compact&theme=tokyonight&langs_count=8&border_radius=15"
-        alt="Most Used Languages"
-      />
-    </td>
-  </tr>
-
-  <!-- Linha 2 – Gráfico de Contribuições -->
-  <tr>
-    <td colspan="2" align="center" style="border: none; padding: 10px;">
-      <img 
-        width="970"
-        src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jaozincosta&theme=tokyonight"
-        alt="Contribution Graph"
-      />
-    </td>
-  </tr>
-
-  <!-- Linha 3 – Commit Streak -->
-  <tr>
-    <td colspan="2" align="center" style="border: none; padding: 10px;">
-      <img 
-        width="970"
-        src="https://streak-stats.demolab.com?user=jaozincosta&theme=tokyonight&hide_border=false&border_radius=15&date_format=j%20M%5B%20Y%5D"
-        alt="GitHub Streak Stats"
-      />
-    </td>
-  </tr>
-</table>
-
-<br/>
-
-<sub>⭐ <b>Total Contributions (Last Year):</b> 342 &nbsp;
-
-</div>
+  <br/>
+  <sub>⭐ <b>Total Contributions (Last Year):</b> 342</sub>
+</p>
 
 
 ## 🌟 Featured Projects  
