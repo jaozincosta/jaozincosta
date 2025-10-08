@@ -119,13 +119,24 @@ I also have solid experience creating **modern and responsive web applications**
     </td>
   </tr>
 
-  <!-- Linha 2 – Gráfico centralizado -->
+  <!-- Linha 2 – Gráfico de Contribuições -->
   <tr>
     <td colspan="2" align="center" style="border: none; padding: 10px;">
       <img 
         width="970"
         src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jaozincosta&theme=tokyonight"
         alt="Contribution Graph"
+      />
+    </td>
+  </tr>
+
+  <!-- Linha 3 – Commit Streak -->
+  <tr>
+    <td colspan="2" align="center" style="border: none; padding: 10px;">
+      <img 
+        width="970"
+        src="https://streak-stats.demolab.com?user=jaozincosta&theme=tokyonight&hide_border=false&border_radius=15&date_format=j%20M%5B%20Y%5D"
+        alt="GitHub Streak Stats"
       />
     </td>
   </tr>
@@ -136,6 +147,7 @@ I also have solid experience creating **modern and responsive web applications**
 <sub>⭐ <b>Total Contributions (Last Year):</b> 342 &nbsp;
 
 </div>
+
 
 ## 🌟 Featured Projects  
 
