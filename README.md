@@ -98,10 +98,51 @@ I also have solid experience creating **modern and responsive web applications**
 
 ## 📊 GitHub Insights  
 
-<p align="center">
-  <img width="350" src="https://github-readme-stats.vercel.app/api?username=jaozincosta&show_icons=true&theme=blueberry&include_all_commits=true&count_private=true&border_radius=10" />
-  <img width="350" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaozincosta&layout=compact&theme=blueberry&langs_count=6&border_radius=10&hide_border=false" />
-</p>
+<div align="center">
+
+<table>
+<tr>
+<td width="50%" align="center">
+  
+## 📊 GitHub Insights  
+
+<div align="center">
+
+<table style="border-collapse: collapse; border: none;">
+<tr>
+
+<td align="center" style="border: none; padding: 10px;">
+  <img 
+    width="470"
+    src="https://github-readme-stats.vercel.app/api?username=jaozincosta&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&border_radius=15&hide_title=false"
+    alt="GitHub Stats"
+  />
+</td>
+
+<td align="center" style="border: none; padding: 10px;">
+  <img 
+    width="470"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaozincosta&layout=compact&theme=tokyonight&langs_count=8&border_radius=15"
+    alt="Most Used Languages"
+  />
+</td>
+
+</tr>
+</table>
+
+<br/>
+<img 
+  width="970"
+  src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jaozincosta&theme=tokyonight"
+  alt="Contribution Graph"
+/>
+
+<br/><br/>
+<sub>⭐ <b>Total Contributions (Last Year):</b> 342 &nbsp;|&nbsp; 🧩 <b>Main Languages:</b> C#, TypeScript, JavaScript, HTML, CSS, Java</sub>
+
+</div>
+
+
 
 ## 🌟 Featured Projects  
 
