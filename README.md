@@ -1,4 +1,3 @@
-<!-- 🌍 Language switcher -->
 <p align="right">
   <b>🌐 Choose your language:</b>
   <a href="#en-us">English</a> | <a href="#pt-br">Português</a>
